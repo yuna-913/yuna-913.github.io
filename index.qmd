@@ -1,0 +1,15 @@
+---
+title: "Yuna Hwang"
+image: images/headshot.jpeg # replace with the link to your headshot
+about:
+  template: jolla # see additional templates here https://quarto.org/docs/websites/website-about.html
+  links:  # add links to your various social profiles
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/<yourhandle>
+    - icon: github
+      text: Github
+      href: https://github.com/<yourhandle>
+---
+
+Enter your biography blurb here.
